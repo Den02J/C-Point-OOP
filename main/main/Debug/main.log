@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\38066_0pwl9m2\source\repos\main\main\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\38066_0pwl9m2\source\repos\main\main\Point.h(72): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\38066_0pwl9m2\source\repos\main\main\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.vcxproj -> C:\Users\38066_0pwl9m2\source\repos\main\Debug\main.exe
